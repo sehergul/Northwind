@@ -9,10 +9,8 @@ import javax.persistence.Table;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.Getter;
 import lombok.NoArgsConstructor;
 //Persist etmek (kalici hale getirmek) icin veritabanina kaydediyoru<
-import lombok.Setter;
 
 
 @Entity 				//karsilik geldigi katman - varlik katmani
