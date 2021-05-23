@@ -15,7 +15,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 
-@Entity 						//karsilik geldigi katman - varlik katmani
+@Entity 				//karsilik geldigi katman - varlik katmani
 @Table(name = "products")		//veritabanindaki karsilik geldigi tablo adi
 @AllArgsConstructor
 @NoArgsConstructor
