@@ -2,10 +2,10 @@ package kodlamaio.northwind.core.utilities.results;
 
 public class ErrorResult extends Result {
 	public ErrorResult() {
-		super(true);
+		super(false);
 	}
 
 	public ErrorResult(String message) {
-		super(true, message);
+		super(false, message);
 	}
 }
