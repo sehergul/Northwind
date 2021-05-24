@@ -48,8 +48,5 @@ public class ProductManager implements ProductService {
 		return new SuccessDataResult("Ürün eklendi");
 	}
 	
-	//Is kurallari buraya yazilir
-	//DataAccess'e yazilmamasinin sebebi: 
 	
-
 }
